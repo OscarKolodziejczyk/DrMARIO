@@ -22,6 +22,7 @@ P: Pause/Unpause
 SPACE: In menus: select option - In game: save capsule/use saved capsule
 
 
+
 GAME FEATURES:
 
 • Difficulty - Choose a difficulty at the beginning of the game, which affects gravity speed and acceleration.
