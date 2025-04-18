@@ -1,5 +1,5 @@
 # DrMARIO
-Dr. MARIO clone made in Assembly - Recommended Assembly assembler: Saturn, which can be downloaded here: https://github.com/1whatleytay/saturn/releases/tag/app-v0.1.10 
+Dr. MARIO clone made in Assembly - Recommended Assembler: Saturn, which can be downloaded here: https://github.com/1whatleytay/saturn/releases/tag/app-v0.1.10 
 
 
 CONTROLS:
